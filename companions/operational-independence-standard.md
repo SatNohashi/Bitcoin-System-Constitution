@@ -1,4 +1,4 @@
-# Operational Independence and Concentration Standard of Bitcoin System Constitution
+# Operational Independence and Concentration Standard of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  

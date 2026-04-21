@@ -1,4 +1,4 @@
-# Constitutional Dispute and Review Standard of Bitcoin System Constitution
+# Constitutional Dispute and Review Standard of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  

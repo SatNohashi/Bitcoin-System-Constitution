@@ -1,4 +1,4 @@
-# Reserve Custody and Key Management Standard of Bitcoin System Constitution
+# Reserve Custody and Key Management Standard of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  

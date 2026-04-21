@@ -1,4 +1,4 @@
-# Breach and Restoration Standard of Bitcoin System Constitution
+# Breach and Restoration Standard of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
@@ -53,7 +53,7 @@ This standard defines:
  - practical path to inclusion
  - constitutional time limits
  - user freedom
-7. Disputes over breach classification, restoration, continuity, or evidence may be reviewed under the **Constitutional Dispute and Review Standard of Bitcoin System Constitution** where that document exists. In its absence, the public evidence and conservative-reading rules in this document control.
+7. Disputes over breach classification, restoration, continuity, or evidence may be reviewed under the **Constitutional Dispute and Review Standard of the Bitcoin System Constitution** where that document exists. In its absence, the public evidence and conservative-reading rules in this document control.
 8. A system's own classification of its breach status is non-authoritative. Compliance status is determined by observable behavior and evidence under this standard and may be independently evaluated by external parties.
 
 ---

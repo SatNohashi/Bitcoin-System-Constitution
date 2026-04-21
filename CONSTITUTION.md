@@ -630,13 +630,13 @@ The intended long-term order of compliant systems is:
 
 The following companion documents support, interpret, or operationalize this constitution:
 
-- [Definitions and Interpretive Notes](companions/definitions-and-interpretive-notes.md)
-- [Breach and Restoration Standard](companions/breach-and-restoration-standard.md)
-- [UX Constitution](companions/ux-constitution.md)
-- [Constitutional Dispute and Review Standard](companions/constitutional-dispute-and-review-standard.md)
-- [Operational Independence Standard](companions/operational-independence-standard.md)
-- [Software Security Architecture Standard](companions/software-security-architecture-standard.md)
-- [Reserve Custody and Key Management Standard](companions/reserve-custody-and-key-management-standard.md)
+- [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
+- [Breach and Restoration Standard of the Bitcoin System Constitution](companions/breach-and-restoration-standard.md)
+- [UX Constitution of the Bitcoin System Constitution](companions/ux-constitution.md)
+- [Constitutional Dispute and Review Standard of the Bitcoin System Constitution](companions/constitutional-dispute-and-review-standard.md)
+- [Operational Independence and Concentration Standard of the Bitcoin System Constitution](companions/operational-independence-standard.md)
+- [Software and Security Architecture Standard of the Bitcoin System Constitution](companions/software-security-architecture-standard.md)
+- [Reserve Custody and Key Management Standard of the Bitcoin System Constitution](companions/reserve-custody-and-key-management-standard.md)
 
 
 Where a companion document is designated binding, its binding force is limited to the scope assigned to it by this constitution.

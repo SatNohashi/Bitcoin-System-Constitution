@@ -1,4 +1,4 @@
-# Definitions and Interpretive Notes
+# Definitions and Interpretive Notes of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  

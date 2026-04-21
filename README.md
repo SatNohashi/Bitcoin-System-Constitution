@@ -25,15 +25,15 @@ The constitution addresses problems that existing systems often fail to solve: h
 These documents operationalize specific constitutional duties.
 
 **Binding:**
-- [Breach and Restoration Standard](companions/breach-and-restoration-standard.md)
-- [UX Constitution](companions/ux-constitution.md)
-- [Constitutional Dispute and Review Standard](companions/constitutional-dispute-and-review-standard.md)
-- [Operational Independence Standard](companions/operational-independence-standard.md)
-- [Software Security Architecture Standard](companions/software-security-architecture-standard.md)
-- [Reserve Custody and Key Management Standard](companions/reserve-custody-and-key-management-standard.md)
+- [Breach and Restoration Standard of the Bitcoin System Constitution](companions/breach-and-restoration-standard.md)
+- [UX Constitution of the Bitcoin System Constitution](companions/ux-constitution.md)
+- [Constitutional Dispute and Review Standard of the Bitcoin System Constitution](companions/constitutional-dispute-and-review-standard.md)
+- [Operational Independence and Concentration Standard of the Bitcoin System Constitution](companions/operational-independence-standard.md)
+- [Software and Security Architecture Standard of the Bitcoin System Constitution](companions/software-security-architecture-standard.md)
+- [Reserve Custody and Key Management Standard of the Bitcoin System Constitution](companions/reserve-custody-and-key-management-standard.md)
 
 **Interpretive:**
-- [Definitions and Interpretive Notes](companions/definitions-and-interpretive-notes.md)
+- [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 
 Additional resources (commentary, one-page summary, verification checklist, FAQ) are available at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
 

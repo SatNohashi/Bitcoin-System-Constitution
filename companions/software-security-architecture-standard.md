@@ -1,4 +1,4 @@
-# Software and Security Architecture Standard of Bitcoin System Constitution
+# Software and Security Architecture Standard of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  

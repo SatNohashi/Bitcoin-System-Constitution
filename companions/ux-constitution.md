@@ -1,4 +1,4 @@
-# UX Constitution of Bitcoin System Constitution
+# UX Constitution of the Bitcoin System Constitution
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
