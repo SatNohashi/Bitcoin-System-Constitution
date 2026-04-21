@@ -55,7 +55,7 @@ Governance dies on schedule. Constitutional amendments close at year 5. Governan
 ## Links
 
 - **Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)
-- **Repository:** [github.com/SatNohashi/Bitcoin-Freedom-Constitution](https://github.com/SatNohashi/Bitcoin-Freedom-Constitution)
+- **Repository:** [github.com/SatNohashi/Bitcoin-System-Constitution](https://github.com/SatNohashi/Bitcoin-System-Constitution)
 - **Bitcoin:** [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 - **Whitepaper:** [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 - **Contact:** satoshinohashi@proton.me

@@ -3,7 +3,7 @@
 **Author:** Satoshi Nohashi  
 **Contact:** satoshinohashi@proton.me  
 **Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
-**Repository:** [github.com/SatNohashi/Bitcoin-Freedom-Constitution](https://github.com/SatNohashi/Bitcoin-Freedom-Constitution)  
+**Repository:** [github.com/SatNohashi/Bitcoin-System-Constitution](https://github.com/SatNohashi/Bitcoin-System-Constitution)  
 **Bitcoin Reference:** [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
 
