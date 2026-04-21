@@ -35,7 +35,8 @@ These documents operationalize specific constitutional duties.
 **Interpretive:**
 - [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 
-Additional resources (commentary, one-page summary, verification checklist, FAQ) are available at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
+**Advisory:**
+Published at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org) — includes Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ.
 
 
 ## Core Requirements

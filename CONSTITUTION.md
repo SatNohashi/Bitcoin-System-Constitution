@@ -630,6 +630,7 @@ The intended long-term order of compliant systems is:
 
 The following companion documents support, interpret, or operationalize this constitution:
 
+**Binding:**
 - [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 - [Breach and Restoration Standard of the Bitcoin System Constitution](companions/breach-and-restoration-standard.md)
 - [UX Constitution of the Bitcoin System Constitution](companions/ux-constitution.md)
@@ -638,6 +639,7 @@ The following companion documents support, interpret, or operationalize this con
 - [Software and Security Architecture Standard of the Bitcoin System Constitution](companions/software-security-architecture-standard.md)
 - [Reserve Custody and Key Management Standard of the Bitcoin System Constitution](companions/reserve-custody-and-key-management-standard.md)
 
+Advisory and reference materials — including the Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ — are published at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
 
 Where a companion document is designated binding, its binding force is limited to the scope assigned to it by this constitution.
 
