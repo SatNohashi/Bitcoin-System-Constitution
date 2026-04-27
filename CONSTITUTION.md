@@ -6,6 +6,8 @@
 **Repository:** [github.com/SatNohashi/Bitcoin-System-Constitution](https://github.com/SatNohashi/Bitcoin-System-Constitution)  
 **Bitcoin Reference:** [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
+**Document Publication:** April 15, 2026, 15:15 UTC  
+**Amendment Window Closes:** April 15, 2031  
 
 ---
 
@@ -20,6 +22,8 @@ It exists to ensure that Bitcoin remains the root money, that transactional syst
 This constitution recognizes that different systems may implement these goals in different technical ways. It therefore defines functional roles, rights, protections, and hard boundaries rather than requiring one monolithic architecture.
 
 A separate UX constitution shall exist to support the ideals of this protocol-level constitution. That UX constitution must not weaken, blur, or contradict the protections defined here. See [UX Constitution](companions/ux-constitution.md).
+
+This document, the Bitcoin System Constitution, enters its founding amendment period at publication and that period ends on April 15, 2031. After that date, the text of this Constitution does not change. Any later modified text is a new document, not a continuation of this Constitution. Systems may continue to be evaluated against this Constitution after April 15, 2031, but the Constitution itself is frozen as written.
 
 This constitution is voluntary in applicability and strict in claim. The rules governing applicability, adoption, and compliance claims are defined in Article XXIX.
 
@@ -419,12 +423,12 @@ Where there is conflict between new features and monetary safety, safety wins.
 1. The system recognizes that governance is a temporary weakness to be reduced over time, not a permanent virtue.
 2. This principle applies whether or not a governance token exists.
 3. Constitutional mutability, governance authority, and implementation authority are separate powers with separate hard stop windows.
-4. Constitutional amendments may be made only during the founding period, which must end no later than 5 years from constitutional genesis.
-5. After the constitutional amendment window closes, no further constitutional changes are permitted within the same compliant system. Any attempt to continue changing constitutional rules shall render the system non-compliant or establish a new system.
-6. Governance authority to approve new protocol-level decisions may exist only until 25 years from constitutional genesis.
-7. After year 25, no new governance decisions, votes, protocol-level approvals, or equivalent decision acts are permitted, whether by governance token, committee, operator council, multisig, foundation, delegated authority, or any other decision mechanism.
-8. Any protocol-level change validly approved before year 25 must be fully implemented within 5 years of the governance hard stop.
-9. After year 30, no further constitutional, governance, or protocol-level change is permitted. Any continued change beyond that point renders the system non-compliant.
+4. Constitutional amendments to this document may be made only during the founding period, which ends on April 15, 2031, as defined in Article XXII, Section 1. After that date, the text of this Constitution is frozen.
+5. After the constitutional amendment window closes, no further constitutional changes are permitted to this Constitution. Any later modified text is a new document, not a continuation of this Constitution. Systems claiming compliance with such modified text are not claiming compliance with this Constitution.
+6. Governance authority to approve new protocol-level decisions within a compliant system may exist only until 25 years from that system's constitutional genesis, as defined in Article XXII, Section 2.
+7. After year 25 of the system clock, no new governance decisions, votes, protocol-level approvals, or equivalent decision acts are permitted, whether by governance token, committee, operator council, multisig, foundation, delegated authority, or any other decision mechanism.
+8. Any protocol-level change validly approved before year 25 of the system clock must be fully implemented within 5 years of the governance hard stop.
+9. After year 30 of the system clock, no further constitutional, governance, or protocol-level change is permitted within that system. Any continued change beyond that point renders the system non-compliant.
 10. No extension mechanism shall exist for the constitutional amendment window, governance window, or final implementation window.
 11. Unresolved issues may remain unresolved. Failure is allowed. Endless mutability is not.
 12. Bugs or imperfections not deemed critical enough to be addressed within the allowed windows must be left alone.
@@ -443,7 +447,7 @@ Where there is conflict between new features and monetary safety, safety wins.
 4. Governance tokens must not control constitutional protections, exit rights, reserve truth, liability truth, plain transferability, mandatory interlayer movement rules, constitutional time windows, or constitutional hard stops.
 5. Governance token voting may govern only bounded operational, optional, or application-layer matters that do not impair the constitutional rights of users.
 6. No governance token holder class may gain privileged withdrawal, reserve access, or constitutional override rights by virtue of token ownership alone.
-7. Any governance token used within a compliant system must lose all protocol-level voting, decision, amendment, emergency, or override authority no later than 25 years from constitutional genesis.
+7. Any governance token used within a compliant system must lose all protocol-level voting, decision, amendment, emergency, or override authority no later than 25 years from that system's constitutional genesis as defined in Article XXII, Section 2.
 8. After its sunset, a governance token shall confer no protocol-level decision rights, no amendment rights, no emergency rights, no reserve rights, and no authority over normal user movement or constitutional protections.
 9. No governance token may be renewed, extended, renamed, mirrored, wrapped, or functionally replaced in order to continue token-based protocol governance beyond its constitutional sunset within the same compliant system.
 10. If a token-governed successor system is created, it must be treated as a new system, not continuation of the old one.
@@ -478,17 +482,31 @@ Where there is conflict between new features and monetary safety, safety wins.
 
 ---
 
-## Article XXII. Constitutional Genesis and Activation Clocks
+## Article XXII. Constitutional Genesis, System Clocks, and Activation
 
-1. Constitutional genesis is the earliest publicly verifiable timestamp at which this constitution is published in full in a public durable repository designated under the identity of the system claiming compliance.
-2. The constitutional clock begins at constitutional genesis.
-3. The constitutional clock governs the constitutional amendment window, the governance decision window, and the final implementation hard stop.
-4. Constitutional genesis shall not be reset by republication, reformatting, repository migration, mirrors, branding refresh, minor edits, later versioning, or other non-substantive continuity actions under the same system identity.
-5. If the original repository disappears or moves, mirrors and migrated repositories preserve continuity of genesis rather than resetting it.
-6. Every layer, sublayer, module, or user-facing component has a separate activation clock.
-7. A component is activated when real users can rely on it, deposit value into it, transact through it, or otherwise use it outside a clearly segregated test environment, regardless of whether it is labeled beta, preview, pilot, guarded, or limited.
-8. Token generation, branding launch, public announcement, or marketing event alone does not define activation if real production use begins at another time.
-9. Later-launched parts may have their own activation dates for operational review, compliance analysis, and provisional mechanism timing, but they do not receive a fresh constitutional clock.
+This article governs two separate clocks: the **constitution clock** and the **system clock**. They are fully independent. Neither clock affects, advances, freezes, extends, or shortens the other. The constitution is a document; systems are separate entities that may or may not choose to claim compliance with it.
+
+### Section 1. The Document and the Constitution Clock
+
+1. This document was first published on April 15, 2026, 15:15 UTC. The **constitution clock** begins at that publication.
+2. Under the constitution clock, the text of this document may be amended only until April 15, 2031. After that date, the Bitcoin System Constitution is frozen as written. Any modified version after that date is a new document, not this Constitution.
+3. Republication, reformatting, repository migration, mirrors, branding refresh, or minor corrections do not reset the freeze date.
+4. If the original repository disappears or moves, mirrors and migrated repositories preserve continuity rather than resetting it.
+5. The constitution clock governs only this document. Publication, amendment, or freezing of this document does not start, advance, or end any system clock, and does not by itself make any system compliant or non-compliant.
+
+### Section 2. System Clock
+
+6. A system's clock begins when that system is first publicly available for use with real user funds under a public claim of compliance with this constitution. This is the system's **constitutional genesis**.
+7. The system clock governs the governance decision window (25 years from system genesis) and the final implementation hard stop (30 years from system genesis) defined in Article XIX.
+8. A system's constitutional genesis shall not be reset by republication, rebranding, repository migration, or other non-substantive continuity actions under the same system identity.
+9. Each system that claims compliance has its own independent system clock. No system inherits another system's clock, and no system's clock is affected by the constitution clock or by any other system's clock.
+
+### Section 3. Component Activation
+
+10. Every layer, sublayer, module, or user-facing component within a system has a separate activation clock.
+11. A component is activated when real users can rely on it, deposit value into it, transact through it, or otherwise use it outside a clearly segregated test environment, regardless of whether it is labeled beta, preview, pilot, guarded, or limited.
+12. Token generation, branding launch, public announcement, or marketing event alone does not define activation if real production use begins at another time.
+13. Later-launched parts may have their own activation dates for operational review, compliance analysis, and provisional mechanism timing, but they do not receive a fresh system clock.
 
 ---
 
@@ -512,7 +530,7 @@ Where there is conflict between new features and monetary safety, safety wins.
 4. Layer 2 and any critical support functions must be designed and operated to reduce concentrated chokepoints across operators, infrastructure, and jurisdictions. Layer 2 in particular must not depend on a single company, a single operator cartel, a single cloud provider, or a single legal jurisdiction for ordinary functioning.
 5. Constitutional compliance evaluation may consider concentration of choke functions, including transaction ordering, settlement publication, reserve custody, proof generation or verification, routing or bridging, withdrawal processing, key infrastructure dependencies, and shared cloud or hosting, not merely raw node counts, validator counts, or jurisdiction counts.
 6. Concentration sufficient to make exit or ordinary operation practically dependent on a single center of control is constitutionally unacceptable, regardless of whether formal protocol rules remain correct.
-7. Measurable thresholds for when concentration becomes constitutionally unacceptable are defined by [Operational Independence Standard](companions/operational-independence-standard.md). That standard should use a sliding scale that grows or shrinks with real network participation.
+7. Measurable thresholds for when concentration becomes constitutionally unacceptable are defined by [Operational Independence Standard](companions/operational-independence-standard.md). That standard shall use a sliding scale that grows or shrinks with real network participation.
 8. This article targets structural and incentive conditions that create or entrench gatekeeping. Mere user preference for one provider in an otherwise genuinely open and non-coercive market is not by itself a constitutional breach.
 
 ---
@@ -526,7 +544,7 @@ Where there is conflict between new features and monetary safety, safety wins.
 5. Recovery-critical metadata must be exportable in open, durable, machine-readable form sufficient to rediscover funds without vendor dependence.
 6. No user should need a specific vendor, server, or update path to rediscover funds that were already validly under their control.
 7. If an update can make coins appear missing without the user voluntarily opting into a new recovery model, that behavior is non-compliant.
-8. Detailed implementation patterns for recovery architecture, including capability trees, archival recovery environments, hash-pinned reference implementations, and frozen recovery profiles, are defined in [Software Security Architecture Standard](companions/software-security-architecture-standard.md).
+8. Detailed implementation patterns for recovery architecture, including capability trees, archival recovery environments, hash-pinned reference implementations, and frozen recovery profiles, are defined in [Software and Security Architecture Standard](companions/software-security-architecture-standard.md).
 
 ---
 
@@ -631,13 +649,15 @@ The intended long-term order of compliant systems is:
 The following companion documents support, interpret, or operationalize this constitution:
 
 **Binding:**
-- [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 - [Breach and Restoration Standard of the Bitcoin System Constitution](companions/breach-and-restoration-standard.md)
 - [UX Constitution of the Bitcoin System Constitution](companions/ux-constitution.md)
 - [Constitutional Dispute and Review Standard of the Bitcoin System Constitution](companions/constitutional-dispute-and-review-standard.md)
 - [Operational Independence and Concentration Standard of the Bitcoin System Constitution](companions/operational-independence-standard.md)
 - [Software and Security Architecture Standard of the Bitcoin System Constitution](companions/software-security-architecture-standard.md)
 - [Reserve Custody and Key Management Standard of the Bitcoin System Constitution](companions/reserve-custody-and-key-management-standard.md)
+
+**Interpretive:**
+- [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 
 Advisory and reference materials — including the Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ — are published at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
 
