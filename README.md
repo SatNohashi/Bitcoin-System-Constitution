@@ -36,7 +36,7 @@ These documents operationalize specific constitutional duties.
 - [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 
 **Advisory:**
-Published at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org) — includes Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ.
+Published at [thebitcoinconstitution.com](https://thebitcoinconstitution.com) — includes Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ.
 
 
 ## Core Requirements
@@ -55,7 +55,7 @@ Governance dies on schedule. Constitutional amendments close at year 5. Governan
 
 ## Links
 
-- **Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)
+- **Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)
 - **Repository:** [github.com/SatNohashi/Bitcoin-System-Constitution](https://github.com/SatNohashi/Bitcoin-System-Constitution)
 - **Bitcoin:** [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 - **Whitepaper:** [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)

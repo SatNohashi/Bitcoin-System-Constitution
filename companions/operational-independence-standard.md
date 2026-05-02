@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Type:** Binding 
 **Supports:** Article XXIV (Directional Decentralization and Operational Concentration), clause 7; Article X (Transaction-Level Censorship Resistance), clause 6 
 **Definitions:** Uses Article I definitions exclusively, particularly: constitutional layer, support system, component, independent control domain, ordinary transaction, ordinary user, practical path to inclusion, non-discretionary, strongest available security model, compliance, provisional custody 

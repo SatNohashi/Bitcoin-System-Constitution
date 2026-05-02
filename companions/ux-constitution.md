@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Type:** Binding 
 **Supports:** The Preamble and the user-facing implications of the Bitcoin System Constitution, especially the articles titled:
 - Honest Risk Hierarchy

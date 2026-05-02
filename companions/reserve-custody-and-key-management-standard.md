@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Type:** Binding 
 **Supports:** Article XIV (Reserve Custody Independence, Non-Unilateral Control, and Open Participation), Section 3 
 **Definitions:** Uses Article I definitions exclusively, particularly: custody structure, independent control domain, provisional custody, materially weakens, non-unilateral, reserve, liability, direct Bitcoin claim, Bitcoin transactional balance 

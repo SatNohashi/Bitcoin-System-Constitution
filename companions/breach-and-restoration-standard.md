@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Type:** Binding 
 **Supports:** The article titled **Breach, Restoration, and Continuity** of the Bitcoin System Constitution, regardless of final article numbering 
 **Status:** Draft 
