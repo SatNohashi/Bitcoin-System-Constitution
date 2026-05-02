@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Type:** Binding 
 **Supports:** Article XXV (Long-Term Recoverability and Compatibility Continuity), Article XXVI (Dependence Must Remain Escapable) 
 **Definitions:** Uses Article I definitions exclusively, particularly: constitutional layer, custody structure, independent control domain, non-discretionary, materially weakens, compliance, provisional custody, strongest available security model, public durable repository 

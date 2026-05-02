@@ -2,7 +2,7 @@
 
 **Author:** Satoshi Nohashi  
 **Contact:** satoshinohashi@proton.me  
-**Website:** [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org)  
+**Website:** [thebitcoinconstitution.com](https://thebitcoinconstitution.com)  
 **Repository:** [github.com/SatNohashi/Bitcoin-System-Constitution](https://github.com/SatNohashi/Bitcoin-System-Constitution)  
 **Bitcoin Reference:** [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
@@ -27,7 +27,7 @@ This document, the Bitcoin System Constitution, enters its founding amendment pe
 
 This constitution is voluntary in applicability and strict in claim. The rules governing applicability, adoption, and compliance claims are defined in Article XXIX.
 
-Interpretive guidance for defined terms and boundary cases is provided in [Definitions and Interpretive Notes](companions/definitions-and-interpretive-notes.md). Article-by-article intent and examples are provided in the Constitutional Commentary, available at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
+Interpretive guidance for defined terms and boundary cases is provided in [Definitions and Interpretive Notes](companions/definitions-and-interpretive-notes.md). Article-by-article intent and examples are provided in the Constitutional Commentary, available at [thebitcoinconstitution.com](https://thebitcoinconstitution.com).
 
 ---
 
@@ -659,7 +659,7 @@ The following companion documents support, interpret, or operationalize this con
 **Interpretive:**
 - [Definitions and Interpretive Notes of the Bitcoin System Constitution](companions/definitions-and-interpretive-notes.md)
 
-Advisory and reference materials — including the Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ — are published at [bitcoinsystemconstitution.org](https://bitcoinsystemconstitution.org).
+Advisory and reference materials — including the Constitutional Commentary, One-Page Summary, Compliance Registry, Verification Checklist, and FAQ — are published at [thebitcoinconstitution.com](https://thebitcoinconstitution.com).
 
 Where a companion document is designated binding, its binding force is limited to the scope assigned to it by this constitution.
 
