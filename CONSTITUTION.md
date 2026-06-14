@@ -197,6 +197,8 @@ Its mandatory goals are:
 
 Layer 2 is the Bitcoin cash rail of the system and must remain boring enough to survive stress.
 
+To remain boring enough to survive, Layer 2 may charge explicit, published, non-discretionary fees to sustain the genuine costs of operation, such as validation, ordering, settlement, data availability, reserve proof, bridge operation, congestion control, storage burden, and long-term system liveness. Such fees must remain consistent with Layer 2's low-fee mission, must not make ordinary commerce impractical, and must not create functional exit blocking.
+
 ---
 
 ## Article VII. Boundaries of Layer 2
@@ -221,10 +223,10 @@ Where there is conflict between new features and monetary safety, safety wins.
 ## Article VIII. Divisibility Without Dilution
 
 1. Layer 2 shall support precision beyond the sat for internal accounting.
-2. Precision expansion must apply proportionally across balances, prices, fees, and accounting units.
+2. Precision expansion must apply proportionally across balances, prices, and accounting units. Fees may be denominated in whole sats or fractional-sat precision, provided they are explicit, published, non-discretionary, and consistent with the low-fee and exit-right protections of this constitution.
 3. Precision expansion must never alter reserves, reserve ratios, or aggregate monetary supply.
 4. Dust and remainder balances must not silently disappear.
-5. Any unresolved fractional amount must remain attributable to its owner until spent, netted, batched, or settled by published rules.
+5. Any unresolved fractional-sat amount must remain attributable to its owner until spent, netted, batched, settled, or paid as an explicit earned fee under published rules. No remainder may be assigned to the protocol, operators, a bridge, or any other non-owner beneficiary except as such an earned fee, or under a voluntary encumbrance the owner knowingly accepted. Disclosure alone does not convert an unearned taking into a permitted disposition.
 6. Small balances shall not become protocol property merely because they are inconvenient.
 7. The system shall be designed so that rising Bitcoin purchasing power does not make ordinary commerce impractical.
 
