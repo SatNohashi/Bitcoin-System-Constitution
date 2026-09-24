@@ -4,7 +4,7 @@
 
 ### 2026-09-24
 
-- Art. XI s4: replaced the "least invasive proof approach reasonably achievable under current technology" sentence. No particular privacy technique is required; the chosen approach must demonstrate the least exposure reasonably achievable while preserving all applicable constitutional protections, and the limitations of the chosen design alone do not establish necessity.
+- Art. XI s4: replaced the "least invasive proof approach reasonably achievable under current technology" sentence. No particular privacy technique is required; the chosen approach must publicly demonstrate the least exposure reasonably achievable under current technology while preserving all applicable constitutional protections, and the limitations of the chosen design alone do not establish necessity.
 
 ### 2026-06-14
 
