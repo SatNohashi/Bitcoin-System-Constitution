@@ -1,5 +1,17 @@
 # Changelog
 
+## Founding-period amendments (post 7.0)
+
+### 2026-09-24
+
+- Art. XI s4: replaced the "least invasive proof approach reasonably achievable under current technology" sentence. No particular privacy technique is required; the chosen approach must demonstrate the least exposure reasonably achievable while preserving all applicable constitutional protections, and the limitations of the chosen design alone do not establish necessity.
+
+### 2026-06-14
+
+- Art. VI: Layer 2 may charge explicit, published, non-discretionary fees to sustain genuine operating costs, bounded by the low-fee mission and exit-right protections.
+- Art. VIII s2: fees removed from the proportionality requirement; whole-sat or fractional-sat fee denomination permitted.
+- Art. VIII s5: unresolved fractional-sat remainders may leave the owner only as an explicit earned fee or a knowingly accepted voluntary encumbrance; disclosure alone does not permit a taking.
+
 ## Version 7.0
 
 - Tightened definition of "strongest available security model" to require published threat model
